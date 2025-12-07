@@ -1,0 +1,49 @@
+# 👨‍💻 Natanael Jr
+
+Desenvolvedor apaixonado por tecnologia, automações e criação de sistemas web.  
+Foco em performance, experiência do usuário e soluções práticas para o dia a dia.
+
+---
+
+## 🚀 Sobre mim
+
+- 💻 Desenvolvedor Web
+- ⚡ Experiência com sistemas de automação e SaaS
+- 🧠 Focado em soluções eficientes e escaláveis
+- 📦 Criação e venda de sistemas prontos
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- HTML5, CSS3, JavaScript
+- Bootstrap, React
+- Node.js, PHP
+- MySQL, SQLite
+- Docker, Linux
+
+---
+
+## 🔥 Projetos em Destaque
+
+- Sistemas de automação para WhatsApp
+- Plataformas SaaS
+- Scripts para servidores VPS
+- Integrações com APIs
+
+---
+
+## 📈 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natanael-jr-web&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+
+- YouTube: reidocodigo.shop  
+- GitHub: https://github.com/natanael-jr-web
+
+---
+
+⭐ Não esqueça de deixar uma estrela nos projetos que você gostar!
