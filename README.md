@@ -24,20 +24,14 @@ Foco em performance, experiência do usuário e soluções práticas para o dia 
 
 ---
 
-## 🔥 Projetos em Destaque
+## 🔥 Projetos em Destaque Whaticket V6
 
 - Sistemas de automação para WhatsApp
 - Plataformas SaaS
-- Scripts para servidores VPS
+- Scripts autoinstalador para servidores VPS
 - Integrações com APIs
 
----
-
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=natanael-jr-web&show_icons=true&theme=dark)
-
----
+- repositório: https://github.com/natanael-jr-web/whaticket-saas-v6
 
 ## 📫 Contato
 
@@ -47,4 +41,5 @@ Foco em performance, experiência do usuário e soluções práticas para o dia 
 ---
 
 ⭐ Não esqueça de deixar uma estrela nos projetos que você gostar!
+
 
