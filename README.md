@@ -41,9 +41,10 @@ Foco em performance, experiência do usuário e soluções práticas para o dia 
 
 ## 📫 Contato
 
-- YouTube: reidocodigo.shop  
+- whatsapp: https://wa.me/5573981355929 
 - GitHub: https://github.com/natanael-jr-web
 
 ---
 
 ⭐ Não esqueça de deixar uma estrela nos projetos que você gostar!
+
